@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipAppearanceCustomization", "TooltipAppearanceCustomization\TooltipAppearanceCustomization.csproj", "{0B26665F-E745-4D70-B10F-E2185BA6626A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TooltipAppearanceCustomization.Web", "TooltipAppearanceCustomization.Web\TooltipAppearanceCustomization.Web.csproj", "{ACC6CC09-3979-4D9D-A198-8D940C2B33D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B26665F-E745-4D70-B10F-E2185BA6626A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B26665F-E745-4D70-B10F-E2185BA6626A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B26665F-E745-4D70-B10F-E2185BA6626A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B26665F-E745-4D70-B10F-E2185BA6626A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC6CC09-3979-4D9D-A198-8D940C2B33D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC6CC09-3979-4D9D-A198-8D940C2B33D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC6CC09-3979-4D9D-A198-8D940C2B33D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC6CC09-3979-4D9D-A198-8D940C2B33D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
