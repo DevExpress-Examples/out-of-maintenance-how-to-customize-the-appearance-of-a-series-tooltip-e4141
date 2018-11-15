@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/TooltipAppearanceCustomization/MainPage.xaml) (VB: [MainPage.xaml](./VB/TooltipAppearanceCustomization/MainPage.xaml))
+<!-- default file list end -->
 # How to customize the appearance of a series tooltip
 
 
