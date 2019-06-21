@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/TooltipAppearanceCustomization/MainPage.xaml) (VB: [MainPage.xaml](./VB/TooltipAppearanceCustomization/MainPage.xaml))
 <!-- default file list end -->
 # How to customize the appearance of a series tooltip
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4141)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to change the appearance  of a series tooltip via its template.</p><p>To do this, you need to create a <strong>System.Windows.DataTemplate</strong> object that specifies the appearance of series tooltips and assign it to the <a href="http://help.devexpress.com/#Silverlight/DevExpressXpfChartsSeries_ToolTipSeriesTemplatetopic"><u>Series.ToolTipSeriesTemplate</u></a> property. In this example, this has been done for the first series.</p><p><br />
